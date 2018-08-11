@@ -1,0 +1,20 @@
+Choosing the Best Python IDE
+
+1.PyCharm is one of the most popular Python IDEs and deservedly so. It’s packed with features such as incredible code completion,
+code analysis, code navigation, top-notch Django, JavaScript, HTML, and CSS support, great debugger, and much more.
+
+2.WingIDE is a solid IDE from Wingware that has been in development since 1999. It has many advanced features such as a first-rate debugger,
+code intelligence, and it can be extended in Python.
+
+3.PyDev is a Python IDE for Eclipse with Django support, code completion, code analysis, navigation, remote debugging, interactive console and much more.
+You can install it as a plugin for Eclipse or by installing LiClipse, an advanced Eclipse distribution.
+
+4.Komodo is an IDE for dynamic languages such as Python, PHP and Ruby. Thenew version has many improvements such as code refactoring, multiple selections,
+better UI interface, open fast dialog, and much more.
+
+5.Eric is an open-source IDE for Python and Ruby with the ugliest mascot I have ever seen.
+
+6.IEP is an Interactive Editor for Python and not really an IDE. It may be useful for people looking for a Matlab replacement.
+It supports multiple Python shells simultaneously and you can program GUI toolkits such as PySide, PyQt4, wx, fltk, GTK, and Tk interactively.
+
+If you are looking for a full-fledged and cross-platform IDE, PyCharm, WingIDE, and PyDev are really your best choices.
